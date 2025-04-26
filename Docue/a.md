@@ -53,3 +53,5 @@ Module has park kind arch land.
 Module has park style.
 
 Module is did.
+
+Module has major.
