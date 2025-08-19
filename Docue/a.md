@@ -62,3 +62,4 @@ Module has major.
 
 Module add and rem module list.
 The module list depend on System only.
+1 module list is 1 page unit.
