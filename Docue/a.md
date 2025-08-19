@@ -79,3 +79,6 @@ This is auto add.
 Inf the module is auto add, it is rem inf all other module that depend on it is rem.
 
 Manual add the module that did is auto add set the module to not auto add.
+
+Module module set the module that is add with storage permit read only
+by client and write able by Module module.
