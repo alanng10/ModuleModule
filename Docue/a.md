@@ -65,3 +65,5 @@ Module add and rem module.
 1 module is 1 page unit.
 
 The module is Class Lang module.
+
+Inf the module has entry, it has a label that is shown in Launch view.
