@@ -59,3 +59,5 @@ Module has park cross.
 Module is did.
 
 Module has major.
+
+Module add and rem module list.
