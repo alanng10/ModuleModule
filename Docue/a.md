@@ -67,3 +67,8 @@ Module add and rem module.
 The module is Class Lang module.
 
 Inf the module has entry, it has a label that is shown in Launch view.
+
+The module is add inf other module that depend on it is add.
+This is auto add.
+
+Inf the module is auto add, it is rem inf all other module that depend on it is rem.
