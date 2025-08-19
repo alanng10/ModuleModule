@@ -76,3 +76,5 @@ Inf the module is auto add, it is rem inf all other module that depend on it is 
 Manually add the module that did is auto add set the module to not auto add.
 
 Inf the module has entry, it has describ on require.
+
+The page unit name is the module publish account name and the module name and ver.
