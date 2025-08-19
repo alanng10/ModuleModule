@@ -78,4 +78,4 @@ This is auto add.
 
 Inf the module is auto add, it is rem inf all other module that depend on it is rem.
 
-Manually add the module that did is auto add set the module to not auto add.
+Manual add the module that did is auto add set the module to not auto add.
