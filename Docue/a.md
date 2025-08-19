@@ -77,4 +77,5 @@ Manually add the module that did is auto add set the module to not auto add.
 
 Inf the module has entry, it has describ on require.
 
+Page unit has unique name.
 The page unit name is the module publish account name and the module name and ver.
