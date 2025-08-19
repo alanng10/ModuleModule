@@ -66,7 +66,12 @@ Module add and rem module.
 
 The module is Class Lang module.
 
+Page unit has unique name.
+Page unit name is the module publish account name and the module name and ver.
+
 Inf the module has entry, it has a label that is shown in Launch view.
+
+Inf the module has entry, it has describ on require.
 
 The module is add inf other module that depend on it is add.
 This is auto add.
@@ -74,8 +79,3 @@ This is auto add.
 Inf the module is auto add, it is rem inf all other module that depend on it is rem.
 
 Manually add the module that did is auto add set the module to not auto add.
-
-Inf the module has entry, it has describ on require.
-
-Page unit has unique name.
-Page unit name is the module publish account name and the module name and ver.
