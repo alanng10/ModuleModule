@@ -84,6 +84,7 @@ Manual add the module that did is auto add set the module to not auto add.
 
 Module module set the module that is add storage permit read only
 by client and write able by Module module.
+The permit is not mod able by client.
 
 Module module not list System module list.
 
