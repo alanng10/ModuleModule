@@ -86,3 +86,8 @@ Module module set the module that is add storage permit read only
 by client and write able by Module module.
 
 Module module not list System module list.
+
+Module module auto update module with module name that is in update list.
+Auto update rem current module and add new module.
+
+Module module get the update list from module host.
