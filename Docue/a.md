@@ -76,8 +76,6 @@ Inf the module has entry, it has describ on require.
 The module is add inf other module that depend on it is add.
 This is auto add.
 
-Module that is manual add can be manual rem.
-
 Module that is depend on can not be rem.
 
 Inf the module is auto add, it is rem inf all other module that depend on it is rem.
