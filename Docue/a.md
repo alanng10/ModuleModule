@@ -88,6 +88,9 @@ by client and write able by Module module.
 Module module not list System module list.
 
 Module module auto update module with module name that is in update list.
-Auto update rem current module and add new module.
 
 Module module get the update list from module host.
+
+Auto update rem current module and add new module.
+The rem is like any rem.
+The add is like any add.
