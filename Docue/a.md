@@ -95,3 +95,5 @@ Module module get the update list from module host.
 Auto update rem current module and add new module.
 The rem is like any rem.
 The add is like any add.
+
+Page unit is Class Lang module fold module.
