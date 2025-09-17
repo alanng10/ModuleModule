@@ -97,10 +97,3 @@ The rem is like any rem.
 The add is like any add.
 
 Page unit is Class Lang module fold module.
-
-Module module not write orn rem module that is make by client.
-
-Module module can not add a module that has module ref that is same as
-module that is make by client.
-
-Module module not write orn rem module that it permit not own by Module module.
