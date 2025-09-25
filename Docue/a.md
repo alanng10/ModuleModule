@@ -69,7 +69,7 @@ The module is Class Lang module.
 Page unit has unique name.
 Page unit name is the module publish account name and the module name and ver.
 
-Inf the module has entry, it has a label that is shown in Launch view.
+Inf the module has entry, it option has a label that is shown in Launch view.
 
 Inf the module has entry, it has describ on require.
 
