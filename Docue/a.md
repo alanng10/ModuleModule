@@ -83,8 +83,6 @@ Inf the module is auto add, it is rem inf all other module that depend on it is 
 
 Manual add the module that did is auto add set the module to manual add.
 
-Manual rem the module that did is manual add set the module to not manual add.
-
 Module module set the module that is add storage permit read only
 by client and write able by Module module.
 The permit is not mod able by client.
