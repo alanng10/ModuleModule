@@ -66,11 +66,11 @@ Module add and rem module.
 
 The module is Class Lang module.
 
-Page unit has unique name.
+Page unit has onlone name.
 Page unit name is the module publish account name and the module name and ver.
 
 Inf the module has entry, it option has a label that is shown in Launch view.
-All label is onlon.
+All label is onlone.
 
 Inf the module has entry, it has describ on require.
 
