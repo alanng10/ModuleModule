@@ -62,6 +62,8 @@ Module has major.
 
 Module is park module module list.
 
+Module derive from Tool module list.
+
 Module add and rem module.
 
 1 module is 1 page unit.
